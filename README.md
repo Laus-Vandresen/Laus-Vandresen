@@ -1,3 +1,5 @@
+# 👋 Hello! I'm Laus Vandresen
+
 I'm a **software developer** focused on **Java backend development**, passionate about building clean, scalable, and well-structured systems.
 
 ## 🧰 Core Technologies
@@ -12,7 +14,7 @@ I'm a **software developer** focused on **Java backend development**, passionate
 
 - **Docker**
 - **GitLab CI/CD**
-- **ELK Stack**
+- **ELK**
 - **Redis**
 - **Firebase**
 - **Amazon SQS**
@@ -21,8 +23,8 @@ I'm a **software developer** focused on **Java backend development**, passionate
 
 ## 🧱 Architecture Knowledge
 
-- Monolithic Applications
-- Microservices
-- Hexagonal Architecture (Ports and Adapters)
-- Clean Architecture
-- Layered Architecture
+- **Monolithic Applications**
+- **Microservices**
+- **Hexagonal Architecture (Ports and Adapters)**
+- **Clean Architecture**
+- **Layered Architecture**
