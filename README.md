@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hello! I'm Laus Vandresen
 
-<!--
-**Laus-Vandresen/Laus-Vandresen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **software developer** focused on **Java backend development**, passionate about building clean, scalable, and well-structured systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Core Technologies
+
+- **Java**
+- **Spring Boot**
+- **Angular**
+- **Flutter**
+- **PostgreSQL**
+
+---
+
+## 🛠️ Additional Knowledge
+
+- **Docker**
+- **GitLab CI/CD**
+- **ELK Stack**
+- **Redis**
+- **Firebase**
+- **Amazon SQS**
+- **Spring Cloud**
+
+---
+
+## 🧱 Architecture Knowledge
+
+- Monolithic Applications
+- Microservices
+- Hexagonal Architecture (Ports and Adapters)
+- Clean Architecture
+- Layered Architecture
+
+---
+
+## 📫 Get in Touch
+
+Feel free to explore my repositories or reach out to connect!
