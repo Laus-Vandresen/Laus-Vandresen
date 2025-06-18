@@ -2,8 +2,6 @@
 
 I'm a **software developer** focused on **Java backend development**, passionate about building clean, scalable, and well-structured systems.
 
----
-
 ## 🧰 Core Technologies
 
 - **Java**
@@ -11,8 +9,6 @@ I'm a **software developer** focused on **Java backend development**, passionate
 - **Angular**
 - **Flutter**
 - **PostgreSQL**
-
----
 
 ## 🛠️ Additional Knowledge
 
@@ -24,8 +20,6 @@ I'm a **software developer** focused on **Java backend development**, passionate
 - **Amazon SQS**
 - **Spring Cloud**
 
----
-
 ## 🧱 Architecture Knowledge
 
 - Monolithic Applications
@@ -33,9 +27,3 @@ I'm a **software developer** focused on **Java backend development**, passionate
 - Hexagonal Architecture (Ports and Adapters)
 - Clean Architecture
 - Layered Architecture
-
----
-
-## 📫 Get in Touch
-
-Feel free to explore my repositories or reach out to connect!
