@@ -1,5 +1,3 @@
-# 👋 Hello! I'm Laus Vandresen
-
 I'm a **software developer** focused on **Java backend development**, passionate about building clean, scalable, and well-structured systems.
 
 ## 🧰 Core Technologies
@@ -19,6 +17,7 @@ I'm a **software developer** focused on **Java backend development**, passionate
 - **Firebase**
 - **Amazon SQS**
 - **Spring Cloud**
+- **Design Patterns**
 
 ## 🧱 Architecture Knowledge
 
